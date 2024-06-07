@@ -1,2 +1,2 @@
 
-olá meu primeiro readme
+olá meu primeiro projeto git
